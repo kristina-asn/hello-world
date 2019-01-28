@@ -1,5 +1,6 @@
-
 # hello-world
 first repository ever
 
-Well I even effed up that one, didn't I...  
+Hi there!
+I'm Kristina and have no clue why I'm here...
+
